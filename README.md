@@ -1,10 +1,10 @@
-# Hello, world! 👋
+# Hello, Dishank Here! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/your_username?label=Follow&style=social)](https://github.com/your_username)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_username?style=social)](https://twitter.com/your_username)
 
-I'm [Your Name], a passionate software developer with a keen interest in [Your Interests/Tech Stack]. Welcome to my GitHub profile!
+I'm [Dishank], a passionate software developer with a keen interest in [MERN]. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
